@@ -1,1 +1,41 @@
 # Raspberry-Pi-Ultimate-Robot
+[![Watch Video](https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/RpiUltimateRobot.jpg)](https://youtu.be/Zdv4cOmOmb8)
+
+# What will you learn ?
+![Watch Video](https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/ModularRobotics.jpg)
+
+
+# Prerequisites
+</br>
+
+|Index|Topic|Image|Video|Description|
+|:----:|:----:|:----:|:----:|:----:|
+|1|Pyhton Crash Course| <img src="https://github.com/murtazahassan/Learn-Python/blob/master/Python_Tumbnail.jpg" width="300" height="150" />  |[Watch Now](https://youtu.be/G2q63_JUgDI)     | Introduction to Pyhton with disucssion on 20+ topics.   </br> |
+|2|OpenCV Crash Course| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Introduction.gif" width="300" height="150" />  |[Watch Now](https://youtu.be/WQeoO7MI0Bs)     | Basic concept of Images. The RGB Channels and Gray Scale Images.   </br> |
+
+
+
+# Chapters
+
+|Chapter|Topic|Image|Video|Description|
+|:----:|:----:|:----:|:----:|:----:|
+|1| [How to Setup Raspberry Pi]()| <img src="https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/Rpi-Getting%20Started.jpg" width="360" height="150" />  |[Watch Now](https://youtu.be/B_8ZcPeaxcc) | Setup your Raspberry Pi for the first time.   </br> |
+|2| [Hardware Build](https://youtu.be/Zdv4cOmOmb8)| <img src="https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/RpiUltimateRobot.jpg" width="360" height="150" />  |[Watch Now](https://youtu.be/B_8ZcPeaxcc) | Setup your Raspberry Pi for the first time.   </br> |
+|3| [Concept of Modularity ](https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/ModularRobotics.jpg)| <img src="https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/ModularRobotics.jpg" width="300" height="150" /> |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=1021) |    What is modularity and how can it be useful?  </br> |
+|4| [Wiring](https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/robotWiringRpi.PNG)| <img src="https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/robotWiringRpi.PNG" width="300" height="150" /> |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=1021) |     Wirring of the Robot with the power supply push button and the motor driver.  </br> |
+|5| [Motor Module](https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/MotorModule.py)| <img src="https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/MotorModule.jpg" width="300" height="150" /> |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=1021) |     Learn how to wire up and code our motor driver that will run the robot </br> |
+|6| [KeyBoard Module](https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/ComingSoon.jpg)| <img src="https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/ComingSoon.jpg" width="300" height="150" /> |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=1021) |    ---  </br> |
+|7| [Camera Module](https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/ComingSoon.jpg)| <img src="https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/ComingSoon.jpg" width="300" height="150" /> |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=1021) |    ---  </br> |
+|8| [Ps4 Controller Module](https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/ComingSoon.jpg)| <img src="https://github.com/murtazahassan/Raspberry-Pi-Ultimate-Robot/blob/master/Images/ComingSoon.jpg" width="300" height="150" /> |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=1021) |    ---  </br> |
+
+|___|___________________|______________________________|__________| ____________________________
+
+
+
+# Notes
+</br>
+
+|Index|Comment|
+|:---|:---|
+|1.|[Recommended IDE: Mu Editor](https://www.jetbrains.com/pycharm/download/)|
+|2.|[Python: 3.7](https://www.python.org/downloads/release/python-376/)|
